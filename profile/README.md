@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1tely&label=Profile%20views&color=0e75b6&style=flat" alt="s1tely" /> </p>
 
-- 🔭 We're currently working on [Lunar](https://github.com/S1tely/Lunar)
+- 🔭 We're currently working on bringing eCommerce to BSV
 
-- 📫 How to reach me **contact@sitely.tech**
+- 📫 How to reach us **contact@sitely.tech**
 
 - ⚡ Fun fact **We believe in Bitcoin**
 
