@@ -7,7 +7,7 @@
 
 - 📫 How to reach us **contact@sitely.tech**
 
-- ⚡ Fun fact **We believe in Bitcoin**
+- ⚡ Fun fact **we have created a <a href="https://www.legendsofuzarn.com/">Trading Card Game</a>**
 
 
 <h3 align="left">Languages and Tools:</h3>
