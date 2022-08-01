@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're Sitely</h1>
-<h3 align="center">A passionate Web Consultancy based in 🇦🇺/🇩🇰</h3>
+<h3 align="center">A passionate Web Consultancy Company based in 🇦🇺/🇩🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1tely&label=Profile%20views&color=0e75b6&style=flat" alt="s1tely" /> </p>
 
