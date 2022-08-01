@@ -5,7 +5,7 @@
 
 - 🔭 We're currently working on [Lunar](https://github.com/S1tely/Lunar)
 
-- 📫 How to reach me **contact@sitely.tech**
+- 📫 How to reach us **contact@sitely.tech**
 
 - ⚡ Fun fact **We believe in Bitcoin**
 
