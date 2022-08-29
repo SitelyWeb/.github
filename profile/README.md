@@ -5,7 +5,7 @@
 
 - 🔭 We're currently working on bringing eCommerce to BSV
 
-- 📫 How to reach us **contact@sitely.tech**
+- 📫 How to reach us **builds@sitely.tech**
 
 - ⚡ Fun fact **we have created a <a href="https://www.legendsofuzarn.com/">Trading Card Game</a>**
 
